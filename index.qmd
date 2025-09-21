@@ -23,6 +23,6 @@ Try Again!
 
 ![Amnis](Amnis.jpg)
 
-![SRL](SRL_Logo.jpg)
+![SRL](SRL_Logo.png)
 
 ![Staff](Staff.jpg)
