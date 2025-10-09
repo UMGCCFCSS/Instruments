@@ -3,6 +3,7 @@ project:
   output-dir: docs/
   render: 
     - index.qmd
+    - Usage.qmd
 website:
   title: "Load These Images, please"
   page-footer:

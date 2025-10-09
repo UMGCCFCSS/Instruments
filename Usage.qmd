@@ -1,0 +1,55 @@
+---
+title: "Instrument Usage"
+format: html
+toc: true
+---
+
+# Aurora 3L
+
+![Aurora3](Aurora3L_Hours.png)
+
+![Aurora3](Aurora3L_BarPlots.png)
+
+# Aurora 4L
+
+![Aurora4](Aurora4L_Hours.png)
+
+![Aurora4](Aurora4L_BarPlots.png)
+
+# Aurora 5L
+
+![Aurora5](Aurora5L_Hours.png)
+
+![Aurora5](Aurora5L_BarPlots.png)
+
+# Aurora CS
+
+![CS](AuroraCS_Hours.png)
+
+![CS](AuroraCS_BarPlots.png)
+
+
+# Canto
+
+![Canto](Canto_Hours.png)
+
+![Canto](Canto_BarPlots.png)
+
+# LSR-II
+
+![LSRII](LSR_Hours.png)
+
+![LSRII](LSR_BarPlots.png)
+
+# Aria II
+
+![AriaII](AriaII_Hours.png)
+
+![AriaII](AriaII_BarPlots.png)
+
+# Amnis
+
+![Amnis](Amnis_Hours.png)
+
+![Amnis](Amnis_BarPlots.png)
+
