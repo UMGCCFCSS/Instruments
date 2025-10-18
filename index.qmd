@@ -26,3 +26,7 @@ Try Again!
 ![SRL](SRL_Logo.png)
 
 ![Staff](Staff.jpg)
+
+![Monitor](Monitor.png)
+
+![QC](QC.png)
